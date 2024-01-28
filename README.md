@@ -12,4 +12,9 @@ Earthquakes are natural phenomena that pose significant risks to human populatio
 2. How did earthquake magnitudes and depths vary across different regions during the year?
 3. What correlations existed between earthquake parameters such as magnitude, depth, and the number of seismic stations reporting the event?
 
+## Source: 
+The source of this data is Kaggle. Which is formed of a community of data scientists and developers. 
+The primary data source is earthquake.usgs.gov.
 
+## Tableau Dashboard:
+https://public.tableau.com/app/profile/ilona.lazoryshyna/viz/Earthquakes2023_17063432076390/Final
